@@ -5,3 +5,8 @@
 * {
     font-family: "poppins", sans-serif;
 }
+
+span {
+    font-family: inherit;
+    font-weight: inherit;
+}
